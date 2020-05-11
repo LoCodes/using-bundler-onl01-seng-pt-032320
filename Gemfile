@@ -4,5 +4,5 @@ gem "rspec"
 
 
 group :developer do
-gem "pry"
+  gem "pry"
 end
