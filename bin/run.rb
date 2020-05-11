@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-require '../gemfile'
+require '../Gemfile'
 
 
 Hashie
