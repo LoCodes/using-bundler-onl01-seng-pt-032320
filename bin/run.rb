@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-require '../bin/run.rb'
+require_relative '../bin/run.rb'
 
 
 Hashie
