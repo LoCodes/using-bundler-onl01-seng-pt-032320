@@ -28,8 +28,10 @@ gem "pry"
 end
 
 
-# gem "rspec", :groups => [:test]
+gem "rspec", :groups => [:test]
 
-group :test do
-gem "rspec"
-end
+# OR
+
+# group :test do
+# gem "rspec"
+# end
