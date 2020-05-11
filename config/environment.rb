@@ -1,5 +1,3 @@
-
-
 # integration
 #    should require bundler/setup in the environment
 #    should require the default and development groups in the environment
