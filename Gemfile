@@ -28,7 +28,7 @@ gem "pry"
 end
 
 
-gem "rspec", :groups => [:development, :test]
+gem "rspec", :groups => [:test]
 
 # group :test do
 # gem "rspec"
